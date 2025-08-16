@@ -6,13 +6,13 @@ Stick Hero Game using Electron Framework
 A simple yet addictive stick bridge game built with HTML, CSS, and JavaScript, packaged as a desktop app using Electron.
 The player must stretch sticks to cross platforms and score points.
 
-🚀 Features
+🚀 Features     
 
-🎯 Stretch and drop sticks to cross platforms
-🌄 Randomly generated background, platforms, and trees
-🔥 Perfect-hit scoring bonus
-🖥️ Packaged into a standalone .exe with custom app icon
-⚡ Cross-platform support (Windows, Linux, Mac via Electron)
+🎯 Stretch and drop sticks to cross platforms. <br> 
+🌄 Randomly generated background, platforms, and trees.<br>  
+🔥 Perfect-hit scoring bonus.<br>  
+🖥️ Packaged into a standalone .exe with custom app icon.  
+⚡ Cross-platform support (Windows, Linux, Mac via Electron).  
 
 📂 Project Structure
 📦 Stick Hero - Js
