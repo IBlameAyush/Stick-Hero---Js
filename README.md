@@ -36,7 +36,7 @@ Spacebar: Restart game instantly
 
 Clone the repo:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/IBlameAyush/Stick-Hero---Js.git
 cd your-repo-name
 
 
