@@ -40,9 +40,11 @@ git clone https://github.com/IBlameAyush/Stick-Hero---Js.git<br>
 cd Stick-Hero---Js<br>
 
 2.Install dependencies:<br>
+
 npm install<br>
 
 Run the app:<br>
+
 npm start<br>
 
 3.📦 Build .exe<br>
