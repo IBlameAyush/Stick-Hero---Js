@@ -34,11 +34,26 @@ The player must stretch sticks to cross platforms and score points.
 
 🛠️ Running Locally  
 
-Clone the repo:
+1.Clone the repo:
 
 git clone https://github.com/IBlameAyush/Stick-Hero---Js.git<br>
-cd Stick-Hero---Js
+cd Stick-Hero---Js<br>
+
+2.Install dependencies:<br>
+npm install<br>
+
+Run the app:<br>
+npm start<br>
+
+3.📦 Build .exe<br>
+
+To package the game as an executable:<br>
+
+npx electron-builder --win<br>
+
+The .exe will be available inside the dist/ folder.<br>
 
 📸 Screenshots
+<img width="1365" height="663" alt="Screenshot 2025-08-16 142309" src="https://github.com/user-attachments/assets/2bee5a92-ac13-43b5-a910-447258ee38dc" />
 
 
