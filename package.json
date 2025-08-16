@@ -1,0 +1,25 @@
+{
+  "name": "stick-hero--js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Ayush Yadav",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^37.3.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+  "appId": "com.Stick Hero.mygame",
+  "win": {
+    "icon": "StickHero.ico",
+    "target": "nsis"
+  }
+}
+
+}
