@@ -15,31 +15,30 @@ The player must stretch sticks to cross platforms and score points.
 ⚡ Cross-platform support (Windows, Linux, Mac via Electron).<br>  
 
 📂 Project Structure  
-📦 Stick Hero - Js 
- ┣ 📜 index.html      # Main game UI 
- ┣ 📜 style.css       # Game styling 
- ┣ 📜 script.js       # Core game logic 
- ┣ 📜 main.js         # Electron app entry point 
- ┣ 📜 package.json    # Electron configuration 
- ┣ 📜 StickHero.ico   # App icon (Windows .exe) 
- ┗ 📜 README.md 
+📦 Stick Hero - Js<br>
+ ┣ 📜 index.html      # Main game UI<br> 
+ ┣ 📜 style.css       # Game styling<br>
+ ┣ 📜 script.js       # Core game logic<br>
+ ┣ 📜 main.js         # Electron app entry point<br> 
+ ┣ 📜 package.json    # Electron configuration<br>
+ ┣ 📜 StickHero.ico   # App icon (Windows .exe)<br> 
+ ┗ 📜 README.md<br> 
 
 🕹️ How to Play  
 
-Click & Hold (mouse / touch): Grow the stick 
-Release: Stick falls to connect platforms 
-If the stick lands on the red zone, earn extra points 
-Miss = Game Over 
-Spacebar: Restart game instantly 
+=>Click & Hold (mouse / touch): Grow the stick<br> 
+=>Release: Stick falls to connect platforms<br> 
+=>If the stick lands on the red zone, earn extra points<br> 
+=>Miss = Game Over<br> 
+=>Spacebar: Restart game instantly<br> 
 
 🛠️ Running Locally  
 
 Clone the repo:
 
-git clone https://github.com/IBlameAyush/Stick-Hero---Js.git
-cd your-repo-name
-
+git clone https://github.com/IBlameAyush/Stick-Hero---Js.git<br>
+cd Stick-Hero---Js
 
 📸 Screenshots
 
-(Add gameplay screenshots or GIFs here)
+
