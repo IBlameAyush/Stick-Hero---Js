@@ -36,8 +36,8 @@ The player must stretch sticks to cross platforms and score points.
 
 1.Clone the repo:
 
-`git clone https://github.com/IBlameAyush/Stick-Hero---Js.git<br>
-cd Stick-Hero---Js<br>`
+`git clone https://github.com/IBlameAyush/Stick-Hero---Js.git`
+`cd Stick-Hero---Js`
 
 2.Install dependencies:<br>
 
